@@ -1,0 +1,31 @@
+body {
+    width: 80%;
+}
+
+/*.button, .form, .list {*/
+    /*float: left;*/
+/*}*/
+
+/*.form {*/
+    /*width: 50%;*/
+/*}*/
+
+/*.list {*/
+    /*width: 78%;*/
+/*}*/
+
+.App {
+    float: left;
+}
+
+.listSize {
+    width: 200px;
+    height: auto;
+}
+
+.removeItem {
+    background-color: #fff;
+    color: red;
+    border: 0px;
+}
+
