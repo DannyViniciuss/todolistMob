@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1.7081872308406072,
+    "value": "test",
+    "category": "Cat1"
+  },
+  {
+    "id": 1.3091712665448898,
+    "value": "dfgdfgfdgf",
+    "category": "Cat1"
+  },
+  {
+    "id": 1.5163008011776227,
+    "value": "1",
+    "category": "Cat1"
+
+  },
+  {
+    "id": 1.8468018666970745,
+    "value": "2",
+    "category": "Cat3"
+
+  },
+  {
+    "id": 1.541385076740142,
+    "value": "3",
+    "category": "Cat2"
+  }
+]

@@ -1,26 +1,19 @@
 body {
-    width: 80%;
+    width: 100%;
 }
 
-/*.button, .form, .list {*/
-    /*float: left;*/
-/*}*/
+.itemsList {
+    width: 50%;
+}
 
-/*.form {*/
-    /*width: 50%;*/
-/*}*/
+.removeItem {
+    background-color: white;
+}
 
-/*.list {*/
-    /*width: 78%;*/
-/*}*/
-
-.App {
+.itemAdd {
     float: left;
-}
-
-.listSize {
-    width: 200px;
-    height: auto;
+    width: 46%;
+    margin-top: 8px;
 }
 
 .removeItem {
@@ -28,4 +21,3 @@ body {
     color: red;
     border: 0px;
 }
-

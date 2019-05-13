@@ -1,9 +1,9 @@
 import React from 'react';
 
 const List = props => (
-    <ul class="listSize">
+    <ul className="listSize">
         {
-            props.items.map((item, index) => <li key={index}>{item} <button type="button" className="removeItem">x</button> </li>)
+            props.items.map((item, index) => <li key={index}>{item} <button type="button" onClick="onClickClose" className="removeItem">x</button> </li>)
         }
     </ul>
 );
